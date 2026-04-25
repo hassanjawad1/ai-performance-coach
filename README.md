@@ -24,6 +24,11 @@ An intelligent WhatsApp-based performance coaching agent that analyzes your Goog
 - **SQLite**: User stats and plan history persistence
 - **Pydantic**: Data validation and state management
 
+## AI Performance Coach Architecture
+
+<img width="1264" height="842" alt="image Arch" src="https://github.com/user-attachments/assets/bc89b04a-8ecd-409b-9606-861980d74ae8" />
+
+
 ## Project Structure
 
 ```
